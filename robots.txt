@@ -7,10 +7,4 @@ Allow: /
 User-agent: Bingbot
 Allow: /
 
-User-agent: Yeti
-Allow: /
-
-User-agent: OAI-SearchBot
-Allow: /
-
-Sitemap: https://t3b04-dc-coin-guide-1.pages.dev/sitemap.xml
+Sitemap: https://deungchon-room-zone.link-hub.org/sitemap.xml
